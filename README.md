@@ -19,10 +19,12 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="30" alt="gmail logo"  />
   </a>
 </div>
-##
+
 ###
 
-<p align="left"></p>
+<br clear="both">
+
+<p align="center"></p>
 
 ###
 
@@ -32,8 +34,10 @@
 
 ###
 
-<p align="left"></p>
-##
+<br clear="both">
+
+<p align="center"></p>
+
 ###
 
 <div align="center">
