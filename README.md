@@ -71,15 +71,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BryanStoduto.BryanStoduto&left_color=aliceblue"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BryanStoduto.BryanStoduto&"  />
-</div>
-
-###
